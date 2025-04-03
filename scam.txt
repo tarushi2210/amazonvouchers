@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beware of Amazon Voucher Scams!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .warning {
+            color: red;
+            font-weight: bold;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 2px solid red;
+            border-radius: 10px;
+            background-color: #ffe6e6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="warning">Beware of Fake Amazon Voucher Scams!</h1>
+        <p>Scammers often trick people by sending fake Amazon gift vouchers via emails, messages, or QR codes.</p>
+        <p>If you receive an unexpected voucher, always verify it on the official Amazon website.</p>
+        <h2>How to Stay Safe:</h2>
+        <ul>
+            <li>Never scan unknown QR codes.</li>
+            <li>Avoid clicking suspicious links.</li>
+            <li>Verify vouchers through Amazon’s official platform.</li>
+            <li>Report suspicious messages to Amazon and cybercrime authorities.</li>
+        </ul>
+        <p class="warning">Stay Alert! Stay Safe!</p>
+    </div>
+</body>
+</html>
